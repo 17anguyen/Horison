@@ -26,12 +26,19 @@
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+}
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+
 }
 /* HIDING OLD HEADER CODE
 .header div ul {
@@ -72,7 +79,7 @@ button{
     position: absolute;
     width: 100%;
     overflow: auto;
-    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+    git 
   }
   .dropdown:hover .dropdown-content {
     display: block;
@@ -131,12 +138,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -147,8 +148,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* TODO make similar styles into one class */
+.sidebar-body {
     margin-bottom: 32px;
     color: #ffffff;
 }
