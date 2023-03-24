@@ -7,6 +7,11 @@ This website model for Horiseon Web Services now includes a drop down menu for t
 https://17anguyen.github.io/first-challenge-alivia/
 
 
+
+references for page features 
+https://blog.hubspot.com/website/parallax-scrolling
+https://blog.hubspot.com/website/html-dropdown
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
