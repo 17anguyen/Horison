@@ -117,7 +117,7 @@ button{
 /* Services Descriptions */
 
 .service-section{
-    width: auto;
+    width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -149,7 +149,7 @@ button{
     padding: 20px;
     clear: both;
     float: right;
-    width: auto;
+    width: 20%;
     height: 100%;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     background-color: #2589bd;
